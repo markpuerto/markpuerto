@@ -13,7 +13,7 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>I am a <b>Full-Stack Software Engineer</b> from the Philippines who loves to keep learning. I have been working in the technology industry for almost 11 years in web and mobile development. I never stop learning new technology and catch up new trends in order to help projects and clients fullfil their dream application. Check out my experience, stack and tools below:</p>
+  <p>I am a <b>Full-Stack Software Engineer</b> from the Philippines who loves to keep learning. I have spent nearly 11 years in the technology sector focusing on web and mobile development. I continuously learn new technologies and stay updated on trends to assist projects and clients in achieving their ideal applications. Explore my background, technology stack, and tools listed below:</p>
 </div>
 
 ## 🛠️ Languages and Tools :
